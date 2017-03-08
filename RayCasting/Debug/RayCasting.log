@@ -1,0 +1,73 @@
+﻿  Source.cpp
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(635): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(778): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(855): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(857): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(910): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(912): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1079): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1087): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1088): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1113): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1371): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1395): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1399): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1400): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1401): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1404): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1405): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1407): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1409): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1410): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1420): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1421): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1425): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1429): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1438): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1439): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1443): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1444): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1453): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1456): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1457): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1461): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1462): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1466): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1470): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1471): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1477): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1478): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1482): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1485): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1494): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1495): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1496): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1502): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1503): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1505): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1506): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1510): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1520): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1530): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1542): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1543): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1544): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1545): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1546): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1547): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1553): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1562): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1567): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1582): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1582): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1583): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1583): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1584): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1643): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1653): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1655): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1663): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1742): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\crystal\documents\visual studio 2015\projects\raycasting\raycasting\source.cpp(1743): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RayCasting.vcxproj -> C:\Users\Crystal\Documents\Visual Studio 2015\Projects\RayCasting\Debug\RayCasting.exe
+  RayCasting.vcxproj -> C:\Users\Crystal\Documents\Visual Studio 2015\Projects\RayCasting\Debug\RayCasting.pdb (Partial PDB)
